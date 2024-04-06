@@ -16,14 +16,15 @@ Steps:
 3. Start the Application: Run the Node.js application.
 
     Common commands include npm start, node app.js, or a custom script defined in the package.json file.
+   
 
-4. Access the Application: Once the application is running, open a web browser and go to
+5. Access the Application: Once the application is running, open a web browser and go to
 
-http://localhost:port
+    http://localhost:port
 
-where is the port number on which your application is running.
+    where is the port number on which your application is running.
 
-The port number is typically specified in the application's configuration or output when starting the server.
+    The port number is typically specified in the application's configuration or output when starting the server.
 
 b. Frontend: Now start Frontend.
 
