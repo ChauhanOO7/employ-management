@@ -36,11 +36,11 @@ Steps:
 
 3. Use npm or yarn to install the project dependencies.
 
- npm install
+     npm install
 
- or
+     or
 
- yarn install
+     yarn install
  
 4. Start the Development Server: After installing dependencies, you can start the development server.
 
