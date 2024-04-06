@@ -44,7 +44,7 @@ Steps:
  
 4. Start the Development Server: After installing dependencies, you can start the development server.
 
-npm start
+    npm start
 
 This command starts the development server and opens your default web browser to display the React application. If it doesn't open automatically, you can
 navigate to
