@@ -15,7 +15,7 @@ Steps:
 
 3. Start the Application: Run the Node.js application.
 
-Common commands include npm start, node app.js, or a custom script defined in the package.json file.
+    Common commands include npm start, node app.js, or a custom script defined in the package.json file.
 
 4. Access the Application: Once the application is running, open a web browser and go to
 
