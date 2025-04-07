@@ -4,17 +4,24 @@ Prerequisites
 Before you begin, ensure you have the following installed:
 
 Node.js (v14 or later)
+
 npm or yarn
+
 Docker
+
 Redis Stack (via Docker)
+
 NGINX
 
 Getting Started
+
 Follow these steps to set up and run the application:
 
 1. Start the Frontend Application:
     cd frontend
+   
     npm install
+   
     npm start
 
   The React application will start on http://localhost:3000
