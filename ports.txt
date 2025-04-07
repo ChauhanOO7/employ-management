@@ -1,0 +1,8 @@
+
+ip:port :
+
+1. nginx: localhost:80
+2. frontend: localhost:3000
+3. backend1: localhost: 8000
+4. backend2: localhost: 8002
+5. redis-stack: 8001
