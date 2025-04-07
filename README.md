@@ -27,18 +27,15 @@ Follow these steps to set up and run the application:
   The React application will start on http://localhost:3000
 
 2. Start the Backend Services
-3. 
-  Backend 1 (Port 8000):
+3. Backend 1 (Port 8000):
 
     cd backend1
    
     npm install
    
     nodemon app.js or node app.js
-
-5. Start the Backend Services
-6. 
-  Backend 2 (Port 8002):
+   
+4. Backend 2 (Port 8002):
 
     cd backend2
    
@@ -46,13 +43,13 @@ Follow these steps to set up and run the application:
    
     nodemon app.js or node app.js
 
-8. Start Redis Stack with Docker
+5. Start Redis Stack with Docker
 
    Run the following command to start Redis Stack:
    
      docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
 
-10. Configure and Start NGINX:
+6. Configure and Start NGINX:
  
     cd nginx
     
